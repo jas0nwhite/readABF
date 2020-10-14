@@ -1,3 +1,7 @@
+2020-10-08 Jason White, version 1.0-3
+
+  * added protocol path to header (for ABF 2.0 +)
+
 2020-07-14 Florian Pein, version 1.0-2
 
   * as.data.frame.ABF: Time [s] starts now at x$samplingIntervalInSec, i.e. at 1 divided by the sampling rate
